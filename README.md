@@ -13,7 +13,7 @@ You can hover over any title of your Readme file to see the link.<br>
 
 ## Basic structure for adding a link
 ```markdown
-[]()
+[Some Text](actual link starting with https://)
 ```
 
 ## GitHub Mardown cheatsheet
