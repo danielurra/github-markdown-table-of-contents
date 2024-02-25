@@ -11,6 +11,11 @@ You can hover over any title of your Readme file to see the link.<br>
 ### Copy Link
 ![copy-link](https://github.com/danielurra/github-markdown-table-of-contents/assets/51704179/471cfa5c-150c-43b3-bf66-5ae5052a69d2)<br>
 
+## Basic structure for adding a link
+```markdown
+[]()
+```
+
 ## GitHub Mardown cheatsheet
 [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)<br>
 
