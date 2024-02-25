@@ -16,7 +16,7 @@ You can hover over any title of your Readme file to see the link.<br>
 [Some Text](actual link starting with https://)
 ```
 ## Identation and points
-Make use of `identation` and also the **star** and **dash** "-" symbols to set levels in your table of contents.
+Make use of `identation` and also the **star** "*" and **dash** "-" symbols to set levels in your table of contents.
 
 ## GitHub Mardown cheatsheet
 [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)<br>
